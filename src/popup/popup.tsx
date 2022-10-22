@@ -1,14 +1,17 @@
 import React from 'react';
-import '../assets/tailwind.css'
+import '../assets/tailwind.scss'
 import { createRoot } from 'react-dom/client'
 
-const test = (
-    <h1 className="">
-        Main Extension Page.
-    </h1>
-)
+const App = (
+    <div>
+        <h1 className="header">Jham</h1>
+        <form action="">
+            <button className="rounded-full">Submit</button>
+        </form>
+    </div>
+);
 
 const container = document.createElement('div')
 document.body.appendChild(container)
 const root = createRoot(container)
-root.render(test)
+root.render(App)
