@@ -12,4 +12,8 @@
 - `pnpm build` to begin build and watch for changes
 - Try to edit in the `src/` folder. This extension is based on react using typescript.
 
+## For Reference
+
+- <https://meerkat-citronella.github.io/jekyll/update/2020/10/01/welcome-to-jekyll.html>
+
 Base template credit to <https://bit.ly/manshu>
