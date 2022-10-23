@@ -3,7 +3,7 @@ import '../assets/tailwind.scss'
 import { createRoot } from 'react-dom/client'
 
 const App = (
-    <h1 className="text-3xl text-green-500 font-bold underline">
+    <h1 className="ext-3xl text-green-500 font-bold untderline">
         Hello Option!
     </h1>
 )

@@ -1,6 +1,5 @@
 {
-  "name": "reactjs-chrome",
-  "author": "Himanshu Batra",
+  "name": "jham_extension",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
